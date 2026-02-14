@@ -1,0 +1,11 @@
+{
+  "device": "MPS",
+  "batch_size": 128,
+  "num_epochs": 10,
+  "total_training_time_seconds": 2469.6724288463593,
+  "average_epoch_time_seconds": 218.5310472011566,
+  "throughput_images_per_second": 202.4559994920304,
+  "best_val_accuracy": 62.76,
+  "final_val_accuracy": 62.58,
+  "final_train_accuracy": 62.476
+}
